@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## From Monolith to Microservices
 
-You can use the [editor on GitHub](https://github.com/rvbabilonia/rvbabilonia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+These are my old designs on how to break down a monolith into microservices but unfortunately, they were never implemented.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Serving and Caching Images
 
-### Markdown
+![Thumbor](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/Thumbor.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Scaling Up a Previously-Single Instance
 
-```markdown
-Syntax highlighted code block
+![vGrabManager](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabManager.png)
 
-# Header 1
-## Header 2
-### Header 3
+### Decoupling Marketing Emails
 
-- Bulleted
-- List
+![vGrabCampaign](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabCampaign.png)
+![vGrabDailies](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabDailies.png)
 
-1. Numbered
-2. List
+### Decoupling Tweets
 
-**Bold** and _Italic_ and `Code` text
+![vGrabEvent](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabEvent.png)
 
-[Link](url) and ![Image](src)
-```
+### Decoupling Push Notifications
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![vGrabNotification](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabNotification.png)
 
-### Jekyll Themes
+### Scaling Up URL Signing
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rvbabilonia/rvbabilonia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![vGrabBooking](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabBooking.PNG)
 
-### Support or Contact
+### Scaling Up Authentication
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![vGrabLogin](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabLogin.png)
+
+### Scaling Up Package Purchasing
+
+![vGrabOffering](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabOffering.PNG)
+
+### Improving Profile Management
+
+![vGrabProfile](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabProfile.PNG)
+
+### Simplifying the Workhorse's Job
+
+![vGrabScan](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabScan.png)
+
+### Decoupling User Count Service
+
+![vGrabUserCount](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabUserCount.png)
