@@ -4,45 +4,45 @@ These are my old designs on how to break down a monolith into microservices but 
 
 ### Serving and Caching Images
 
-![Thumbor](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/Thumbor.png)
+![Thumbor](images/Thumbor.png)
 
 ### Scaling Up a Previously-Single Instance
 
-![vGrabManager](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabManager.png)
+![vGrabManager](images/vGrabManager.png)
 
 ### Decoupling Marketing Emails
 
-![vGrabCampaign](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabCampaign.png)
-![vGrabDailies](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabDailies.png)
+![vGrabCampaign](images/vGrabCampaign.png)
+![vGrabDailies](images/vGrabDailies.png)
 
 ### Decoupling Tweets
 
-![vGrabEvent](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabEvent.png)
+![vGrabEvent](images/vGrabEvent.png)
 
 ### Decoupling Push Notifications
 
-![vGrabNotification](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabNotification.png)
+![vGrabNotification](images/vGrabNotification.png)
 
 ### Scaling Up URL Signing
 
-![vGrabBooking](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabBooking.PNG)
+![vGrabBooking](images/vGrabBooking.PNG)
 
 ### Scaling Up Authentication
 
-![vGrabLogin](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabLogin.png)
+![vGrabLogin](images/vGrabLogin.png)
 
 ### Scaling Up Package Purchasing
 
-![vGrabOffering](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabOffering.PNG)
+![vGrabOffering](images/vGrabOffering.PNG)
 
 ### Improving Profile Management
 
-![vGrabProfile](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabProfile.PNG)
+![vGrabProfile](images/vGrabProfile.PNG)
 
 ### Simplifying the Workhorse's Job
 
-![vGrabScan](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabScan.png)
+![vGrabScan](images/vGrabScan.png)
 
 ### Decoupling User Count Service
 
-![vGrabUserCount](https://github.com/rvbabilonia/rvbabilonia.github.io/blob/master/images/vGrabUserCount.png)
+![vGrabUserCount](images/vGrabUserCount.png)
